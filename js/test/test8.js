@@ -1,0 +1,1 @@
+console.log("ihkuL nahsraD".split("").reverse().join(""))
